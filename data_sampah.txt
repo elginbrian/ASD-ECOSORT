@@ -1,0 +1,2 @@
+Botol Plastik,Anorganik,2.0
+Bungkus Makanan,Anorganik,1.0
